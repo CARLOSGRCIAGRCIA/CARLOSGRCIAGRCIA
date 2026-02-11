@@ -1,6 +1,7 @@
 ---
 
 <!-- ===== HEADER ===== -->
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h1 align="center">Carlos García</h1>
 
@@ -117,6 +118,15 @@ Backend Development · Software Architecture · DevOps
   ![Modular Design](https://img.shields.io/badge/Modular%20Design%20-%23000000.svg?style=for-the-badge)  
   ![Middleware Pattern](https://img.shields.io/badge/Middleware%20Pattern%20-%23000000.svg?style=for-the-badge)
 
+- **Cloud Hosting**:
+
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+
+- **Extras**:
+
+    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+
 
 | Category         | Technologies                                             |
 | ---------------- | -------------------------------------------------------- |
@@ -146,16 +156,6 @@ Backend Development · Software Architecture · DevOps
 * CI/CD-driven automated deployment workflows
 * Production-safe releases via **Blue/Green Deployments**
 
-
-- **Cloud Hosting**:
-
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-    
 ---
 
 ## Projects
