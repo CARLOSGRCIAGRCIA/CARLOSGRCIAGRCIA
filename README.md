@@ -64,39 +64,39 @@ I design and build **scalable, maintainable, modular, and production-ready** sys
 ## Technology Stack
 
 ### Languages
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,py,java,cs&theme=dark" />
 </p>
 
 ### Backend
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring,fastapi&theme=dark" />
 </p>
 
 ### Frontend
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,js,html,css&theme=dark" />
 </p>
 
 ### Databases
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongo,mysql&theme=dark" />
 </p>
 
 ### Testing
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=jest&theme=dark" />
   <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge"/>
 </p>
 
 ### DevOps & Deployment
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=docker,githubactions,linux&theme=dark" />
   <img src="https://img.shields.io/badge/Blue/Green_Deployment-007ACC?style=for-the-badge"/>
 </p>
 
 ### Code Quality & Architecture
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Layered_Architecture-000000?style=for-the-badge"/>
