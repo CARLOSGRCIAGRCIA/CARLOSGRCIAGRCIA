@@ -78,8 +78,16 @@ Backend Development · Software Architecture · DevOps
 
 ## Technology Stack
 
+- **Languages**:
+    ![TS](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![JS](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![java](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C#](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,nodejs,express,react,mongodb,mysql,docker,linux,jest"/>
+  <img src="https://skillicons.dev/icons?i=cs,nodejs,express,react,mongodb,mysql,docker,linux,jest"/>
 </p>
 
 | Category         | Technologies                                             |
@@ -110,6 +118,16 @@ Backend Development · Software Architecture · DevOps
 * CI/CD-driven automated deployment workflows
 * Production-safe releases via **Blue/Green Deployments**
 
+
+- **Cloud Hosting**:
+
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+
+- **Extras**:
+
+    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+    
 ---
 
 ## Projects
@@ -141,12 +159,6 @@ Focus areas:
 ---
 
 ## Activity & Metrics
-
-
-| Repository Activity Trends | Collaborative Productivity - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
 
 <p align="center">
   <img 
