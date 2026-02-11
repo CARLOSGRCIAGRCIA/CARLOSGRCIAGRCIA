@@ -1,29 +1,24 @@
----
-
 <!-- ===== HEADER ===== -->
 
-<table>
-  <tr>
-    <td>
+<h1 align="center">Carlos García</h1>
 
-<h1>Carlos García</h1>
+<p align="center">
+  <strong>Backend & DevOps Oriented Full Stack Developer</strong><br/>
+  Clean Architecture · Scalable Systems · CI/CD · Blue/Green Deployments
+</p>
 
-<strong>Backend & DevOps Oriented Full Stack Developer</strong><br/>
-Clean Architecture · Scalable Systems · CI/CD · Blue/Green Deployments
+<p align="center">
+  <img width="320" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+</p>
 
-<br/><br/>
-
-<a href="https://github.com/CARLOSGRCIAGRCIA">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white"/>
-</a>
-    </td>
-    <td>
-      <img alt="Coding" width="280" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/CARLOSGRCIAGRCIA">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
+
 
 ## Professional Summary
 
@@ -187,6 +182,16 @@ Repositories:
 ---
 
 ## Activity & Metrics
+
+### GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/CARLOSGRCIAGRCIA">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CARLOSGRCIAGRCIA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CARLOSGRCIAGRCIA&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=CARLOSGRCIAGRCIA&show_icons=true&hide_border=true&count_private=true"/>
