@@ -1,19 +1,18 @@
 <!-- ===== HEADER ===== -->
 
-<h1 align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="80" style="vertical-align:middle"/>
-  Carlos García
-</h1>
-
 <p align="center">
-  <strong>Backend & DevOps Oriented Full Stack Developer</strong>
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="550"/>
 </p>
 
+<h1 align="center">👋 ¡Hola! Soy Carlos García</h1>
+
+<h3 align="center">Backend & DevOps Oriented Full Stack Developer</h3>
+
 <p align="center">
-  Clean Architecture • Scalable Systems • CI/CD • Blue/Green Deployments • Production-Ready Code
+  <strong>Clean Architecture • Scalable Systems • CI/CD • Blue/Green Deployments • Production-Ready Code</strong>
 </p>
 
-<!-- Tech badges principales arriba para impacto inmediato -->
+<!-- Badges clave para impacto inmediato -->
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -32,7 +31,7 @@
   </a>
 </p>
 
-<!-- Stats y streak arriba para mostrar actividad -->
+<!-- Stats y streak arriba -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CARLOSGRCIAGRCIA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CARLOSGRCIAGRCIA&layout=compact&langs_count=8&theme=algolia"/>
