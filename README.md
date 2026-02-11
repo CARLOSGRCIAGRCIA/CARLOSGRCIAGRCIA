@@ -193,10 +193,14 @@ Repositories:
 </p>
 
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CARLOSGRCIAGRCIA&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CARLOSGRCIAGRCIA&layout=compact&hide_border=true"/>
-</p>
+### Streak Stats
+ 
+<div align=center>
+ 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CARLOSGRCIAGRCIA&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+
+</div>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CARLOSGRCIAGRCIA&hide_border=true"/>
