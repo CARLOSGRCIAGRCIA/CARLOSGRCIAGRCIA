@@ -3,8 +3,8 @@
 <h1 align="center">Carlos García</h1>
 
 <p align="center">
-  <strong>Full Stack Developer · Backend-Oriented</strong><br/>
-  Clean Architecture · Sistemas escalables · Software mantenible
+  <strong>Full Stack Developer · Backend & DevOps Oriented</strong><br/>
+  Clean Architecture · Sistemas escalables · CI/CD · Blue/Green Deployments
 </p>
 
 <p align="center">
@@ -17,16 +17,16 @@
 
 ## Sobre mí
 
-Desarrollador Full Stack con enfoque principal en **backend, arquitectura de software y diseño de sistemas**.
+Desarrollador Full Stack con enfoque principal en **backend, arquitectura de software y prácticas DevOps**.
 
-Me especializo en construir aplicaciones:
+Me especializo en construir soluciones:
 
-* Bien estructuradas
 * Escalables
 * Mantenibles
+* Desacopladas
 * Robustas en producción
 
-Trabajo priorizando **claridad, consistencia lógica y diseño técnico sólido**, especialmente en sistemas que requieren validaciones complejas, flujos críticos o integración entre servicios.
+Trabajo priorizando **claridad, diseño estructurado, calidad de código y confiabilidad operativa**.
 
 ---
 
@@ -40,40 +40,71 @@ Trabajo priorizando **claridad, consistencia lógica y diseño técnico sólido*
 * Middleware architecture
 * Error handling estructurado
 * Testing automatizado (Unit + E2E)
-* Algoritmos y lógica compleja
 * Optimización de rendimiento
+* Automatización y CI/CD
+* Estrategias de despliegue seguras
 
 ---
 
 ## Stack tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,nodejs,express,mongodb,mysql,react,html,css,jest"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,nodejs,express,react,mongodb,mysql,docker,linux,jest"/>
 </p>
 
-| Categoría           | Tecnologías                                                              |
-| ------------------- | ------------------------------------------------------------------------ |
-| **Lenguajes**       | JavaScript, TypeScript, Python, Java, C#                                 |
-| **Backend**         | Node.js, Express                                                         |
-| **Frontend**        | React, HTML, CSS                                                         |
-| **Bases de datos**  | MongoDB, MySQL                                                           |
-| **Testing**         | Jest, Supertest                                                          |
-| **Arquitectura**    | Clean Architecture, Modular Design, Layered Architecture                 |
-| **Seguridad**       | JWT Authentication, Token Validation                                     |
-| **Patrones**        | Middleware Pattern, Repository Pattern                                   |
-| **Conceptos clave** | Error Handling estructurado, Validación avanzada, Algoritmos de búsqueda |
+| Categoría             | Tecnologías                                              |
+| --------------------- | -------------------------------------------------------- |
+| **Lenguajes**         | JavaScript, TypeScript, Python, Java, C#                 |
+| **Backend**           | Node.js, Express                                         |
+| **Frontend**          | React, HTML, CSS                                         |
+| **Bases de datos**    | MongoDB, MySQL                                           |
+| **Testing**           | Jest, Supertest                                          |
+| **DevOps**            | Docker, CI/CD Pipelines                                  |
+| **Entorno**           | Linux                                                    |
+| **Calidad de código** | SonarQube                                                |
+| **Arquitectura**      | Clean Architecture, Modular Design, Layered Architecture |
+| **Seguridad**         | JWT Authentication, Token Validation                     |
+| **Patrones**          | Middleware Pattern, Repository Pattern                   |
+
+---
+
+## Capacidades técnicas
+
+### Backend & Arquitectura
+
+* Diseño e implementación de APIs robustas
+* Arquitecturas limpias y desacopladas
+* Validaciones avanzadas
+* Manejo estructurado de errores
+* Middleware personalizado
+* Implementación de lógica compleja y algoritmos
+* Integración entre múltiples servicios
+
+### Testing & Calidad
+
+* Testing unitario y E2E
+* Jest / Supertest
+* Análisis estático de código con SonarQube
+* Enfoque en mantenibilidad y deuda técnica controlada
+
+### DevOps & Operación
+
+* Contenerización con Docker
+* Entornos Linux
+* Configuración y automatización de CI/CD
+* Despliegue de backend y frontend
+* Estrategias de despliegue **Blue/Green**
+* Reducción de downtime en producción
+* Automatización de pipelines
 
 ---
 
 ## Experiencia técnica destacada
 
-* Diseño e implementación de **APIs robustas y desacopladas**
-* Desarrollo de **servicios backend escalables**
-* Integración de **JWT distribuido entre múltiples APIs (Java / C# / Node.js)**
-* Implementación de **middlewares personalizados**
+* Desarrollo de **APIs desacopladas en múltiples lenguajes (Java / C# / Node.js)**
+* Implementación de **JWT distribuido entre servicios**
+* Diseño de **middlewares personalizados**
 * Testing automatizado (unitarios + E2E)
-* Manejo estructurado de errores y validaciones
-* Implementación de algoritmos como **A*** (pathfinding)
 * Arquitecturas en capas:
 
   * Controllers
@@ -81,6 +112,9 @@ Trabajo priorizando **claridad, consistencia lógica y diseño técnico sólido*
   * Repositories
   * DTOs
   * Middleware
+* Contenerización de aplicaciones con Docker
+* Despliegues automatizados mediante CI/CD
+* Implementación de **Blue/Green Deployments**
 
 ---
 
@@ -95,9 +129,9 @@ Principales enfoques:
 * Sistemas backend complejos
 * APIs escalables
 * Arquitecturas limpias
-* Validaciones avanzadas
 * Testing automatizado
 * Seguridad y autenticación
+* Automatización y despliegue
 
 ---
 
@@ -108,7 +142,7 @@ Principales enfoques:
 * Testing desde el diseño inicial
 * Desacoplamiento y mantenibilidad
 * Minimizar complejidad innecesaria
-* Pensar en escalabilidad desde el inicio
+* Pensar en escalabilidad y operación desde el inicio
 
 ---
 
@@ -151,13 +185,13 @@ Principales enfoques:
 * Optimización de algoritmos
 * Arquitectura backend avanzada
 * Testing E2E robusto
-* Patrones de diseño
+* Estrategias de despliegue resilientes
 * Performance & reliability
 
 ---
 
 <p align="center">
-  <sub><strong>Software sólido, mantenible y bien diseñado.</strong></sub>
+  <sub><strong>Software sólido, mantenible y preparado para producción.</strong></sub>
 </p>
 
 ---
