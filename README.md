@@ -1,20 +1,28 @@
 ---
 
 <!-- ===== HEADER ===== -->
-<h1 align="center">Carlos García</h1>
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<table>
+  <tr>
+    <td>
 
-<p align="center">
-  <strong>Backend & DevOps Oriented Full Stack Developer</strong><br/>
-  Clean Architecture · Scalable Systems · CI/CD · Blue/Green Deployments
-</p>
+<h1>Carlos García</h1>
 
-<p align="center">
-  <a href="https://github.com/CARLOSGRCIAGRCIA">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-</p>
+<strong>Backend & DevOps Oriented Full Stack Developer</strong><br/>
+Clean Architecture · Scalable Systems · CI/CD · Blue/Green Deployments
+
+<br/><br/>
+
+<a href="https://github.com/CARLOSGRCIAGRCIA">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+
+    </td>
+    <td>
+      <img alt="Coding" width="280" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+    </td>
+  </tr>
+</table>
 
 ---
 
