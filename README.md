@@ -1,7 +1,7 @@
 ---
 
 <!-- ===== HEADER ===== -->
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Developer Workflow" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h1 align="center">Carlos García</h1>
 
@@ -109,6 +109,13 @@ Backend Development · Software Architecture · DevOps
   ![Blue/Green Deployment](https://img.shields.io/badge/Blue/Green%20Deployment%20-%23007ACC.svg?style=for-the-badge)  
   ![Linux](https://img.shields.io/badge/Linux%20-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 
+- **Infrastructure & Environment**:
+
+  ![Dockerized Apps](https://img.shields.io/badge/Dockerized%20Applications-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+  ![Linux Environment](https://img.shields.io/badge/Linux%20Environment-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
+  ![CI/CD Pipelines](https://img.shields.io/badge/CI/CD%20Pipelines-%230A0A0A.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+
 - **Code Quality**:  
   ![SonarQube](https://img.shields.io/badge/SonarQube%20-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
 
@@ -118,14 +125,17 @@ Backend Development · Software Architecture · DevOps
   ![Modular Design](https://img.shields.io/badge/Modular%20Design%20-%23000000.svg?style=for-the-badge)  
   ![Middleware Pattern](https://img.shields.io/badge/Middleware%20Pattern%20-%23000000.svg?style=for-the-badge)
 
-- **Cloud Hosting**:
+- **Cloud Hosting & Deployment**:  
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
+  ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)  
+  ![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)  
+  ![Windows Server](https://img.shields.io/badge/Windows%20Server-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
 
-- **Extras**:
+- **Tools & Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+  ![Linux Terminal](https://img.shields.io/badge/Linux%20Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+  ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
 | Category         | Technologies                                             |
