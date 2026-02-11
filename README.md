@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=42&duration=4500&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&lines=%C2%A1Hola!+Soy+Carlos+Garc%C3%ADa;Backend+%26+DevOps+Developer;Clean+Architecture+%E2%9A%A1+Scalable+Systems;CI%2FCD+%E2%9E%9C+Blue%2FGreen+Deployments;Building+Production-Ready+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=42&duration=4500&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&lines=%C2%A1Hi!+I'm+Carlos+Garcia;Backend+%26+DevOps+Developer;Clean+Architecture+Scalable+Systems;CI%2FCD+%E2%9E%9C+Blue%2FGreen+Deployments;Building+Production-Ready+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@ Diseño y construyo sistemas **escalables, mantenibles, modulares y listos para 
 ## Technology Stack
 
 ### Languages
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white"/>
@@ -73,7 +73,7 @@ Diseño y construyo sistemas **escalables, mantenibles, modulares y listos para 
 </p>
 
 ### Backend
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -82,7 +82,7 @@ Diseño y construyo sistemas **escalables, mantenibles, modulares y listos para 
 </p>
 
 ### Frontend
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
@@ -93,19 +93,19 @@ Diseño y construyo sistemas **escalables, mantenibles, modulares y listos para 
 </p>
 
 ### Databases
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### Testing
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supertest-%23000000?style=for-the-badge"/>
 </p>
 
 ### DevOps & Deployment
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/CI/CD-%230A0A0A?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blue/Green_Deployment-%23007ACC?style=for-the-badge"/>
@@ -113,7 +113,7 @@ Diseño y construyo sistemas **escalables, mantenibles, modulares y listos para 
 </p>
 
 ### Code Quality & Architecture
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/SonarQube-%234E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clean_Architecture-%23000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Layered_Architecture-%23000000?style=for-the-badge"/>
