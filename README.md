@@ -1,10 +1,12 @@
+---
+
 <!-- ===== HEADER ===== -->
 
 <h1 align="center">Carlos García</h1>
 
 <p align="center">
   <strong>Full Stack Developer · Backend & DevOps Oriented</strong><br/>
-  Clean Architecture · Sistemas escalables · CI/CD · Blue/Green Deployments
+  Clean Architecture · Scalable Systems · CI/CD · Blue/Green Deployments
 </p>
 
 <p align="center">
@@ -15,138 +17,131 @@
 
 ---
 
-## Sobre mí
+## Profile
 
-Desarrollador Full Stack con enfoque principal en **backend, arquitectura de software y prácticas DevOps**.
+Full Stack Developer with a strong focus on **backend engineering, software architecture, and DevOps practices**.
 
-Me especializo en construir soluciones:
+Specialized in designing and building systems that are:
 
-* Escalables
-* Mantenibles
-* Desacopladas
-* Robustas en producción
+* Scalable
+* Maintainable
+* Modular
+* Production-ready
 
-Trabajo priorizando **claridad, diseño estructurado, calidad de código y confiabilidad operativa**.
+I prioritize **clean design, predictable behavior, code quality, and operational reliability**.
 
 ---
 
-## Enfoque profesional
+## Core Expertise
 
-Áreas en las que concentro mi trabajo:
-
-* Desarrollo de APIs y servicios backend
+* Backend & API Development
 * Clean / Layered Architecture
-* Diseño modular y desacoplado
-* Middleware architecture
-* Error handling estructurado
-* Testing automatizado (Unit + E2E)
-* Optimización de rendimiento
-* Automatización y CI/CD
-* Estrategias de despliegue seguras
+* Modular & Decoupled Systems
+* Middleware Design
+* Structured Error Handling
+* Automated Testing (Unit + E2E)
+* Performance Optimization
+* CI/CD & Deployment Automation
+* Blue/Green Deployment Strategies
 
 ---
 
-## Stack tecnológico
+## Technology Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,nodejs,express,react,mongodb,mysql,docker,linux,jest"/>
 </p>
 
-| Categoría             | Tecnologías                                              |
-| --------------------- | -------------------------------------------------------- |
-| **Lenguajes**         | JavaScript, TypeScript, Python, Java, C#                 |
-| **Backend**           | Node.js, Express                                         |
-| **Frontend**          | React, HTML, CSS                                         |
-| **Bases de datos**    | MongoDB, MySQL                                           |
-| **Testing**           | Jest, Supertest                                          |
-| **DevOps**            | Docker, CI/CD Pipelines                                  |
-| **Entorno**           | Linux                                                    |
-| **Calidad de código** | SonarQube                                                |
-| **Arquitectura**      | Clean Architecture, Modular Design, Layered Architecture |
-| **Seguridad**         | JWT Authentication, Token Validation                     |
-| **Patrones**          | Middleware Pattern, Repository Pattern                   |
+| Category         | Technologies                                             |
+| ---------------- | -------------------------------------------------------- |
+| **Languages**    | JavaScript, TypeScript, Python, Java, C#                 |
+| **Backend**      | Node.js, Express                                         |
+| **Frontend**     | React, HTML, CSS                                         |
+| **Databases**    | MongoDB, MySQL                                           |
+| **Testing**      | Jest, Supertest                                          |
+| **DevOps**       | Docker, CI/CD Pipelines                                  |
+| **Environment**  | Linux                                                    |
+| **Code Quality** | SonarQube                                                |
+| **Architecture** | Clean Architecture, Layered Architecture, Modular Design |
+| **Security**     | JWT Authentication, Token Validation                     |
+| **Patterns**     | Middleware Pattern, Repository Pattern                   |
 
 ---
 
-## Capacidades técnicas
+## Engineering Capabilities
 
-### Backend & Arquitectura
+### Backend & Architecture
 
-* Diseño e implementación de APIs robustas
-* Arquitecturas limpias y desacopladas
-* Validaciones avanzadas
-* Manejo estructurado de errores
-* Middleware personalizado
-* Implementación de lógica compleja y algoritmos
-* Integración entre múltiples servicios
+* Design and implementation of scalable APIs
+* Clean, layered, and modular architectures
+* Advanced validation flows
+* Structured error handling strategies
+* Custom middleware design
+* Complex business logic & algorithms
+* Multi-service integration
 
-### Testing & Calidad
+### Testing & Quality
 
-* Testing unitario y E2E
+* Unit and End-to-End testing
 * Jest / Supertest
-* Análisis estático de código con SonarQube
-* Enfoque en mantenibilidad y deuda técnica controlada
+* Static code analysis with SonarQube
+* Focus on maintainability & technical debt control
 
-### DevOps & Operación
+### DevOps & Operations
 
-* Contenerización con Docker
-* Entornos Linux
-* Configuración y automatización de CI/CD
-* Despliegue de backend y frontend
-* Estrategias de despliegue **Blue/Green**
-* Reducción de downtime en producción
-* Automatización de pipelines
-
----
-
-## Experiencia técnica destacada
-
-* Desarrollo de **APIs desacopladas en múltiples lenguajes (Java / C# / Node.js)**
-* Implementación de **JWT distribuido entre servicios**
-* Diseño de **middlewares personalizados**
-* Testing automatizado (unitarios + E2E)
-* Arquitecturas en capas:
-
-  * Controllers
-  * Services
-  * Repositories
-  * DTOs
-  * Middleware
-* Contenerización de aplicaciones con Docker
-* Despliegues automatizados mediante CI/CD
-* Implementación de **Blue/Green Deployments**
+* Containerization with Docker
+* Linux-based environments
+* CI/CD pipeline configuration
+* Automated deployments
+* Backend & Frontend orchestration
+* Blue/Green deployment strategies
+* Downtime minimization & reliability improvements
 
 ---
 
-## Proyectos
+## Selected Technical Experience
 
-Repositorios disponibles en:
+* Development of **decoupled APIs across multiple languages (Java / C# / Node.js)**
+* Implementation of **distributed JWT authentication**
+* Design of **custom middleware pipelines**
+* Structured validation and error handling systems
+* Automated testing strategies (Unit + E2E)
+* Implementation of algorithms such as **A*** (pathfinding)
+* Containerized environments using Docker
+* CI/CD-driven deployment workflows
+* Production-safe releases using **Blue/Green Deployments**
+
+---
+
+## Projects
+
+Repositories available at:
 
 **[https://github.com/CARLOSGRCIAGRCIA?tab=repositories](https://github.com/CARLOSGRCIAGRCIA?tab=repositories)**
 
-Principales enfoques:
+Main focus areas:
 
-* Sistemas backend complejos
-* APIs escalables
-* Arquitecturas limpias
-* Testing automatizado
-* Seguridad y autenticación
-* Automatización y despliegue
-
----
-
-## Filosofía de desarrollo
-
-* Código claro antes que complejo
-* Arquitectura simple pero sólida
-* Testing desde el diseño inicial
-* Desacoplamiento y mantenibilidad
-* Minimizar complejidad innecesaria
-* Pensar en escalabilidad y operación desde el inicio
+* Backend systems
+* Scalable APIs
+* Clean architectures
+* Automated testing
+* Security & authentication
+* Deployment automation
 
 ---
 
-## Actividad y estadísticas
+## Development Principles
+
+* Clarity over cleverness
+* Simple but robust architecture
+* Testing from the initial design
+* Decoupling and maintainability
+* Avoid unnecessary complexity
+* Scalability & operability by design
+
+---
+
+## Activity & Metrics
 
 <p align="center">
   <img 
@@ -179,19 +174,19 @@ Principales enfoques:
 
 ---
 
-## Actualmente explorando
+## Current Focus
 
-* Diseño de sistemas escalables
-* Optimización de algoritmos
-* Arquitectura backend avanzada
-* Testing E2E robusto
-* Estrategias de despliegue resilientes
+* Scalable system design
+* Backend architecture refinement
+* Algorithm optimization
+* Advanced testing strategies
+* Resilient deployment models
 * Performance & reliability
 
 ---
 
 <p align="center">
-  <sub><strong>Software sólido, mantenible y preparado para producción.</strong></sub>
+  <sub><strong>Building reliable, maintainable, and production-ready software.</strong></sub>
 </p>
 
 ---
