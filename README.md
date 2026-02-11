@@ -1,23 +1,31 @@
 <!-- ===== HEADER ===== -->
 
-<h1 align="center">Carlos García</h1>
+<h1 align="center">
+  Carlos García
+</h1>
 
 <p align="center">
-  <strong>Backend & DevOps Oriented Full Stack Developer</strong><br/>
+  <strong>Backend & DevOps Oriented Full Stack Developer</strong>
+</p>
+
+<p align="center">
   Clean Architecture · Scalable Systems · CI/CD · Blue/Green Deployments
 </p>
 
 <p align="center">
-  <img width="320" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+  <img width="360" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 </p>
 
 <p align="center">
   <a href="https://github.com/CARLOSGRCIAGRCIA">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-CARLOSGRCIAGRCIA-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Architecture%20%7C%20DevOps-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deployment-Blue%2FGreen-007ACC?style=for-the-badge"/>
 </p>
 
 ---
+
 
 
 ## Professional Summary
