@@ -85,10 +85,38 @@ Backend Development · Software Architecture · DevOps
   ![Java](https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
   ![C#](https://img.shields.io/badge/C%23%20-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+- **Backend**:  
+  ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+  ![Express](https://img.shields.io/badge/Express.js%20-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,nodejs,express,react,mongodb,mysql,docker,linux,jest"/>
-</p>
+- **Frontend**:  
+  ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+  ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+- **Databases**:  
+  ![MongoDB](https://img.shields.io/badge/MongoDB%20-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/MySQL%20-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+- **Testing**:  
+  ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)  
+  ![Supertest](https://img.shields.io/badge/Supertest%20-%23000000.svg?style=for-the-badge)
+
+- **DevOps & Deployment**:  
+  ![Docker](https://img.shields.io/badge/Docker%20-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+  ![CI/CD](https://img.shields.io/badge/CI/CD%20-%230A0A0A.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
+  ![Blue/Green Deployment](https://img.shields.io/badge/Blue/Green%20Deployment%20-%23007ACC.svg?style=for-the-badge)  
+  ![Linux](https://img.shields.io/badge/Linux%20-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+- **Code Quality**:  
+  ![SonarQube](https://img.shields.io/badge/SonarQube%20-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+- **Architecture & Practices**:  
+  ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture%20-%23000000.svg?style=for-the-badge)  
+  ![Layered Architecture](https://img.shields.io/badge/Layered%20Architecture%20-%23000000.svg?style=for-the-badge)  
+  ![Modular Design](https://img.shields.io/badge/Modular%20Design%20-%23000000.svg?style=for-the-badge)  
+  ![Middleware Pattern](https://img.shields.io/badge/Middleware%20Pattern%20-%23000000.svg?style=for-the-badge)
+
 
 | Category         | Technologies                                             |
 | ---------------- | -------------------------------------------------------- |
