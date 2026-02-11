@@ -1,13 +1,11 @@
-<!-- ===== HEADER ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=42&duration=4500&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&lines=Hi!+I'm+Carlos+Garc%C3%ADa;Backend+%26+DevOps+Developer;Clean+Architecture+%26+Scalable+Systems;CI%2FCD+%26+Blue%2FGreen+Deployments;Production-Ready+Code" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="450"/>
-</p>
+</p> -->
 
-<!-- Key badges for immediate technical impact -->
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
