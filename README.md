@@ -1,9 +1,9 @@
 ---
 
 <!-- ===== HEADER ===== -->
-<img align="right" alt="Developer Workflow" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 <h1 align="center">Carlos García</h1>
+
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="center">
   <strong>Backend & DevOps Oriented Full Stack Developer</strong><br/>
