@@ -3,8 +3,8 @@
 <h1 align="center">Carlos García</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong><br/>
-  Arquitectura limpia · Lógica sólida · Sistemas escalables
+  <strong>Full Stack Developer · Backend-Oriented</strong><br/>
+  Clean Architecture · Sistemas escalables · Software mantenible
 </p>
 
 <p align="center">
@@ -17,85 +17,147 @@
 
 ## Sobre mí
 
-Desarrollador Full Stack con enfoque en **backend, arquitectura de software y sistemas bien estructurados**.  
-Me especializo en construir soluciones mantenibles, técnicamente sólidas y confiables en producción.
+Desarrollador Full Stack con enfoque principal en **backend, arquitectura de software y diseño de sistemas**.
 
-**Enfoque actual:**
+Me especializo en construir aplicaciones:
 
-- APIs y servicios backend
-- Algoritmos y lógica compleja
-- Testing automatizado (E2E)
-- Arquitectura modular y programación funcional
-- Optimización de rendimiento
+* Bien estructuradas
+* Escalables
+* Mantenibles
+* Robustas en producción
+
+Trabajo priorizando **claridad, consistencia lógica y diseño técnico sólido**, especialmente en sistemas que requieren validaciones complejas, flujos críticos o integración entre servicios.
 
 ---
 
-## Stack principal
+## Enfoque profesional
+
+Áreas en las que concentro mi trabajo:
+
+* Desarrollo de APIs y servicios backend
+* Clean / Layered Architecture
+* Diseño modular y desacoplado
+* Middleware architecture
+* Error handling estructurado
+* Testing automatizado (Unit + E2E)
+* Algoritmos y lógica compleja
+* Optimización de rendimiento
+
+---
+
+## Stack tecnológico
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,express,mongodb,react,html,css,jest"/>
-
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,nodejs,express,mongodb,mysql,react,html,css,jest"/>
 </p>
 
-| Categoría      | Tecnologías |
-|----------------|-------------|
-| Lenguajes | JavaScript, TypeScript, Python |
-| Backend | Node.js, Express, MongoDB |
-| Testing | Jest, Supertest |
-| Frontend | HTML, CSS, React |
-| Paradigmas | Programación funcional, Diseño modular, Middleware architecture |
-| Conceptos | Algoritmos de búsqueda, Validación de rutas, Error handling estructurado |
+| Categoría           | Tecnologías                                                              |
+| ------------------- | ------------------------------------------------------------------------ |
+| **Lenguajes**       | JavaScript, TypeScript, Python, Java, C#                                 |
+| **Backend**         | Node.js, Express                                                         |
+| **Frontend**        | React, HTML, CSS                                                         |
+| **Bases de datos**  | MongoDB, MySQL                                                           |
+| **Testing**         | Jest, Supertest                                                          |
+| **Arquitectura**    | Clean Architecture, Modular Design, Layered Architecture                 |
+| **Seguridad**       | JWT Authentication, Token Validation                                     |
+| **Patrones**        | Middleware Pattern, Repository Pattern                                   |
+| **Conceptos clave** | Error Handling estructurado, Validación avanzada, Algoritmos de búsqueda |
+
+---
+
+## Experiencia técnica destacada
+
+* Diseño e implementación de **APIs robustas y desacopladas**
+* Desarrollo de **servicios backend escalables**
+* Integración de **JWT distribuido entre múltiples APIs (Java / C# / Node.js)**
+* Implementación de **middlewares personalizados**
+* Testing automatizado (unitarios + E2E)
+* Manejo estructurado de errores y validaciones
+* Implementación de algoritmos como **A*** (pathfinding)
+* Arquitecturas en capas:
+
+  * Controllers
+  * Services
+  * Repositories
+  * DTOs
+  * Middleware
 
 ---
 
 ## Proyectos
 
-Explora mis repositorios:
+Repositorios disponibles en:
 
-👉 https://github.com/CARLOSGRCIAGRCIA?tab=repositories
+**[https://github.com/CARLOSGRCIAGRCIA?tab=repositories](https://github.com/CARLOSGRCIAGRCIA?tab=repositories)**
 
-Proyectos enfocados principalmente en:
+Principales enfoques:
 
-- Sistemas backend complejos
-- APIs robustas con validación avanzada
-- Testing automatizado completo
-- Arquitecturas limpias y escalables
+* Sistemas backend complejos
+* APIs escalables
+* Arquitecturas limpias
+* Validaciones avanzadas
+* Testing automatizado
+* Seguridad y autenticación
 
 ---
 
 ## Filosofía de desarrollo
 
-- Código claro antes que complejo
-- Testing desde el diseño inicial
-- Arquitectura simple pero sólida
-- Evitar dependencias innecesarias
-- Mantenibilidad como prioridad
+* Código claro antes que complejo
+* Arquitectura simple pero sólida
+* Testing desde el diseño inicial
+* Desacoplamiento y mantenibilidad
+* Minimizar complejidad innecesaria
+* Pensar en escalabilidad desde el inicio
 
 ---
 
 ## Actividad y estadísticas
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CARLOSGRCIAGRCIA&show_icons=true&hide_border=true&title_color=333&icon_color=333&text_color=333"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CARLOSGRCIAGRCIA&layout=compact&hide_border=true&title_color=333&text_color=333"/>
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api?username=CARLOSGRCIAGRCIA&show_icons=true&hide_border=true&count_private=true"
+  />
+  <img 
+    height="165" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CARLOSGRCIAGRCIA&layout=compact&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CARLOSGRCIAGRCIA&hide_border=true"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=CARLOSGRCIAGRCIA&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=CARLOSGRCIAGRCIA&theme=flat&no-frame=true&margin-w=10"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=CARLOSGRCIAGRCIA&hide_border=true"
+  />
 </p>
 
 ---
 
 ## Actualmente explorando
 
-- Diseño de sistemas escalables
-- Optimización de algoritmos
-- Arquitecturas backend robustas
-- Automatización y testing avanzado
+* Diseño de sistemas escalables
+* Optimización de algoritmos
+* Arquitectura backend avanzada
+* Testing E2E robusto
+* Patrones de diseño
+* Performance & reliability
 
 ---
 
 <p align="center">
-  <sub>Software sólido, mantenible y bien diseñado.</sub>
+  <sub><strong>Software sólido, mantenible y bien diseñado.</strong></sub>
 </p>
+
+---
