@@ -5,7 +5,7 @@
 <h1 align="center">Carlos García</h1>
 
 <p align="center">
-  <strong>Full Stack Developer · Backend & DevOps Oriented</strong><br/>
+  <strong>Backend & DevOps Oriented Full Stack Developer</strong><br/>
   Clean Architecture · Scalable Systems · CI/CD · Blue/Green Deployments
 </p>
 
@@ -17,32 +17,62 @@
 
 ---
 
-## Profile
+## Professional Summary
 
-Full Stack Developer with a strong focus on **backend engineering, software architecture, and DevOps practices**.
+Full Stack Developer specialized in **backend engineering, software architecture, and DevOps practices**.
 
-Specialized in designing and building systems that are:
-
-* Scalable
-* Maintainable
-* Modular
-* Production-ready
-
-I prioritize **clean design, predictable behavior, code quality, and operational reliability**.
+Focused on designing and building systems that are **scalable, maintainable, modular, and production-ready**.
+Strong emphasis on clean design, predictable behavior, automated testing, and reliable deployment strategies.
 
 ---
 
-## Core Expertise
+## Recruiter Snapshot
 
-* Backend & API Development
+**Primary Focus**
+Backend Development · Software Architecture · DevOps
+
+**Key Strengths**
+
+* API & Backend Systems Design
 * Clean / Layered Architecture
 * Modular & Decoupled Systems
-* Middleware Design
-* Structured Error Handling
+* Middleware & Error Handling
 * Automated Testing (Unit + E2E)
-* Performance Optimization
 * CI/CD & Deployment Automation
-* Blue/Green Deployment Strategies
+* Docker & Linux Environments
+* Blue/Green Deployments
+
+---
+
+## Core Technical Skills
+
+### Backend & Architecture
+
+* Scalable API design & development
+* Clean Architecture / Layered Systems
+* Modular and decoupled design
+* Advanced validation flows
+* Structured error handling
+* Middleware pipelines
+* Complex business logic & algorithms
+* Multi-service integration
+
+### Testing & Code Quality
+
+* Unit & End-to-End Testing
+* Jest / Supertest
+* Static code analysis with SonarQube
+* Maintainability & technical debt control
+
+### DevOps & Deployment
+
+* Docker containerization
+* Linux environments
+* CI/CD pipeline configuration
+* Automated deployments
+* Backend & Frontend orchestration
+* Blue/Green deployment strategies
+* Downtime reduction & release safety
 
 ---
 
@@ -59,7 +89,7 @@ I prioritize **clean design, predictable behavior, code quality, and operational
 | **Frontend**     | React, HTML, CSS                                         |
 | **Databases**    | MongoDB, MySQL                                           |
 | **Testing**      | Jest, Supertest                                          |
-| **DevOps**       | Docker, CI/CD Pipelines                                  |
+| **DevOps**       | Docker, CI/CD                                            |
 | **Environment**  | Linux                                                    |
 | **Code Quality** | SonarQube                                                |
 | **Architecture** | Clean Architecture, Layered Architecture, Modular Design |
@@ -68,74 +98,43 @@ I prioritize **clean design, predictable behavior, code quality, and operational
 
 ---
 
-## Engineering Capabilities
-
-### Backend & Architecture
-
-* Design and implementation of scalable APIs
-* Clean, layered, and modular architectures
-* Advanced validation flows
-* Structured error handling strategies
-* Custom middleware design
-* Complex business logic & algorithms
-* Multi-service integration
-
-### Testing & Quality
-
-* Unit and End-to-End testing
-* Jest / Supertest
-* Static code analysis with SonarQube
-* Focus on maintainability & technical debt control
-
-### DevOps & Operations
-
-* Containerization with Docker
-* Linux-based environments
-* CI/CD pipeline configuration
-* Automated deployments
-* Backend & Frontend orchestration
-* Blue/Green deployment strategies
-* Downtime minimization & reliability improvements
-
----
-
 ## Selected Technical Experience
 
-* Development of **decoupled APIs across multiple languages (Java / C# / Node.js)**
-* Implementation of **distributed JWT authentication**
-* Design of **custom middleware pipelines**
-* Structured validation and error handling systems
+* Development of **decoupled APIs across Java, C#, and Node.js**
+* Distributed **JWT authentication between services**
+* Custom **middleware-based request pipelines**
+* Structured validation & error handling systems
 * Automated testing strategies (Unit + E2E)
-* Implementation of algorithms such as **A*** (pathfinding)
-* Containerized environments using Docker
-* CI/CD-driven deployment workflows
-* Production-safe releases using **Blue/Green Deployments**
+* Implementation of algorithms (A* / pathfinding)
+* Docker-based containerized environments
+* CI/CD-driven automated deployment workflows
+* Production-safe releases via **Blue/Green Deployments**
 
 ---
 
 ## Projects
 
-Repositories available at:
+Repositories:
 
 **[https://github.com/CARLOSGRCIAGRCIA?tab=repositories](https://github.com/CARLOSGRCIAGRCIA?tab=repositories)**
 
-Main focus areas:
+Focus areas:
 
 * Backend systems
 * Scalable APIs
 * Clean architectures
-* Automated testing
+* Testing automation
 * Security & authentication
-* Deployment automation
+* DevOps & deployment
 
 ---
 
-## Development Principles
+## Engineering Principles
 
 * Clarity over cleverness
 * Simple but robust architecture
-* Testing from the initial design
-* Decoupling and maintainability
+* Testing from the design phase
+* Decoupling & maintainability
 * Avoid unnecessary complexity
 * Scalability & operability by design
 
@@ -155,21 +154,15 @@ Main focus areas:
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=CARLOSGRCIAGRCIA&hide_border=true"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CARLOSGRCIAGRCIA&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=CARLOSGRCIAGRCIA&theme=flat&no-frame=true&margin-w=10"
-  />
+  <img src="https://github-profile-trophy.vercel.app/?username=CARLOSGRCIAGRCIA&theme=flat&no-frame=true&margin-w=10"/>
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=CARLOSGRCIAGRCIA&hide_border=true"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CARLOSGRCIAGRCIA&hide_border=true"/>
 </p>
 
 ---
@@ -182,6 +175,16 @@ Main focus areas:
 * Advanced testing strategies
 * Resilient deployment models
 * Performance & reliability
+
+---
+
+## Contact
+
+<p align="center">
+  <a href="https://github.com/CARLOSGRCIAGRCIA">
+    <img src="https://img.shields.io/badge/GitHub-CARLOSGRCIAGRCIA-181717?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
