@@ -101,6 +101,9 @@ Backend Development · Software Architecture · DevOps
 ### Frontend
 
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js%20-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Vanilla JS](https://img.shields.io/badge/Vanilla%20JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -164,15 +167,6 @@ Repositories:
 
 **https://github.com/CARLOSGRCIAGRCIA?tab=repositories**
 
-Focus areas:
-
-- Backend systems  
-- Scalable APIs  
-- Clean architectures  
-- Testing automation  
-- Security & authentication  
-- DevOps & deployment  
-
 ---
 
 ## Engineering Principles
@@ -181,7 +175,6 @@ Focus areas:
 - Simple but robust architecture  
 - Testing from the design phase  
 - Decoupling & maintainability  
-- Avoid unnecessary complexity  
 - Scalability & operability by design  
 
 ---
@@ -198,23 +191,8 @@ Focus areas:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CARLOSGRCIAGRCIA&theme=darkhub&no-frame=true&margin-w=10"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CARLOSGRCIAGRCIA&theme=github-dark&hide_border=true"/>
 </p>
-
----
-
-## Current Focus
-
-- Scalable system design  
-- Backend architecture refinement  
-- Algorithm optimization  
-- Advanced testing strategies  
-- Resilient deployment models  
-- Performance & reliability  
 
 ---
 
