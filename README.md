@@ -1,13 +1,13 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=42&duration=4500&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&lines=%C2%A1Hi!+I'm+Carlos+Garcia;Backend+%26+DevOps+Developer;Clean+Architecture+Scalable+Systems;CI%2FCD+%E2%9E%9C+Blue%2FGreen+Deployments;Building+Production-Ready+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=42&duration=4500&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&lines=Hi!+I'm+Carlos+Garc%C3%ADa;Backend+%26+DevOps+Developer;Clean+Architecture+%26+Scalable+Systems;CI%2FCD+%26+Blue%2FGreen+Deployments;Production-Ready+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="450"/>
 </p>
 
-<!-- Badges clave para impacto técnico inmediato -->
+<!-- Key badges for immediate technical impact -->
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<!-- Stats y streak -->
+<!-- Stats and streak -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CARLOSGRCIAGRCIA&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CARLOSGRCIAGRCIA&layout=compact&langs_count=8&theme=algolia"/>
@@ -41,10 +41,10 @@
 
 ## About Me
 
-Full Stack Developer especializado en **backend engineering, arquitectura limpia y DevOps**.  
-Diseño y construyo sistemas **escalables, mantenibles, modulares y listos para producción**, con fuerte énfasis en testing automatizado y despliegues seguros.
+Full Stack Developer specialized in **backend engineering, clean architecture, and DevOps**.  
+I design and build **scalable, maintainable, modular, and production-ready** systems, with a strong emphasis on automated testing and safe deployments.
 
-**Enfoque principal**: Backend • Arquitectura • CI/CD • Zero-Downtime Deployments
+**Main focus**: Backend • Architecture • CI/CD • Zero-Downtime Deployments
 
 ---
 
@@ -64,75 +64,58 @@ Diseño y construyo sistemas **escalables, mantenibles, modulares y listos para 
 ## Technology Stack
 
 ### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-%2314354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cs&theme=dark" />
 </p>
 
 ### Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring,fastapi&theme=dark" />
 </p>
 
 ### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,js,html,css&theme=dark" />
 </p>
 
 ### Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongo,mysql&theme=dark" />
 </p>
 
 ### Testing
-<p align="left">
-  <img src="https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supertest-%23000000?style=for-the-badge"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest&theme=dark" />
+  <img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge"/>
 </p>
 
 ### DevOps & Deployment
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-%230A0A0A?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blue/Green_Deployment-%23007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux&theme=dark" />
+  <img src="https://img.shields.io/badge/Blue/Green_Deployment-007ACC?style=for-the-badge"/>
 </p>
 
 ### Code Quality & Architecture
-<p align="left">
-  <img src="https://img.shields.io/badge/SonarQube-%234E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clean_Architecture-%23000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Layered_Architecture-%23000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Modular_Design-%23000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Middleware_Pattern-%23000000?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Layered_Architecture-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Modular_Design-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Middleware_Pattern-000000?style=for-the-badge"/>
 </p>
 
 ---
 
 ## Selected Experience Highlights
 
-- APIs desacopladas en Java, C#, Node.js y más  
-- Autenticación JWT distribuida entre servicios  
-- Pipelines de middleware personalizados  
-- Validación y manejo estructurado de errores  
-- Estrategias de testing automatizado completo  
-- Algoritmos complejos (A*, pathfinding)  
-- Entornos containerizados con Docker  
-- Despliegues automatizados CI/CD con Blue/Green
+- Decoupled APIs in Java, C#, Node.js, and more  
+- Distributed JWT authentication across services  
+- Custom middleware pipelines  
+- Structured validation and error handling  
+- Complete automated testing strategies  
+- Complex algorithms (A*, pathfinding)  
+- Containerized environments with Docker  
+- Automated CI/CD deployments with Blue/Green
 
 ---
 
@@ -161,5 +144,5 @@ Diseño y construyo sistemas **escalables, mantenibles, modulares y listos para 
 </p>
 
 <p align="center">
-  <sub><strong>Construyendo software confiable, mantenible y listo para producción.</strong></sub>
+  <sub><strong>Building reliable, maintainable, and production-ready software.</strong></sub>
 </p>
