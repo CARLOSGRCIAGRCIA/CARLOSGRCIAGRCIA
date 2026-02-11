@@ -1,7 +1,7 @@
 <!-- ===== HEADER ===== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=42&duration=4500&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&lines=%C2%A1Hi!+I'm+Carlos+Garc%C3%ADa;Backend+%26+DevOps+Developer;Clean+Architecture+%E2%9A%A1+Scalable+Systems;CI%2FCD+%E2%9E%9C+Blue%2FGreen+Deployments;Building+Production-Ready+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=42&duration=4500&pause=1000&color=61DAFB&center=true&vCenter=true&width=900&lines=%C2%A1Hi!+I'm+Carlos+Garc%C3%ADa;Backend+%26+DevOps+Developer;Clean+Architecture+Scalable+Systems;CI%2FCD+%E2%9E%9C+Blue%2FGreen+Deployments;Building+Production-Ready+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -75,7 +75,6 @@ Diseño y construyo sistemas **escalables, mantenibles, modulares y listos para 
 </p>
 
 ### Backend • Frontend • Databases • DevOps • Testing
-*(Mantengo las secciones de badges que ya tenías, pero las agrupé más compactas para no alargar tanto)*
 
 ---
 
