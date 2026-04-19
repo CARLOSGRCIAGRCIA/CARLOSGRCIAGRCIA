@@ -47,5 +47,3 @@ Testing     Vitest · Jest — unit + end-to-end
 </p>
 
 ---
-
-*Open to junior backend roles and internships — remote or Oaxaca/México.*
