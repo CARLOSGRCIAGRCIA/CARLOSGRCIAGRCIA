@@ -1,6 +1,6 @@
 # Carlos Garcia
 
-Backend developer based in Oaxaca, México. I build systems that stay online — resilient APIs, distributed architectures, and automated deployments. Mostly self-taught, currently looking for my first professional role.
+Backend developer based in México. I build systems that stay online — resilient APIs, distributed architectures, and automated deployments. Mostly self-taught, currently looking for my first professional role.
 
 cgarciagarcia729@gmail.com &nbsp;·&nbsp; [linkedin.com/in/carlos-garcia-gg](https://linkedin.com/in/carlos-garcia-gg)
 
